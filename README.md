@@ -1,6 +1,6 @@
 # My first Portfolio
 
-Welcome to my first personal portfolio and i created this when i was 14 years old by the way! My name is Luiz Felipe, and I am a passionate Front-End Developer, interested in technology since I was 10 years old.
+Welcome to my first personal portfolio and i created this when i was 14 years old by the way!
 
 ---
 
