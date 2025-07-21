@@ -50,3 +50,5 @@ Some featured projects:
 
 <p align="center">Made by Luiz Felipe <br> 
 Copyright © 2025</p>
+
+Made by [@lu1zviana](https://github.com/lu1zviana)
