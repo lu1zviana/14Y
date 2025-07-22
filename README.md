@@ -1,6 +1,6 @@
 # My first Portfolio
 
-Welcome to my first personal portfolio and i created this when i was 14 years old and i dont use this more by the way!
+Welcome to my first personal portfolio and i created this when i was 14 years old and i dont use this anymore by the way!
 
 ---
 
